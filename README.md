@@ -17,3 +17,12 @@ NB: During the duration of this course, I employ Jupyter Notebook to facilitate 
 - work with loops (for and while).
 - define and call functions.
 - understand scope and lifetime of variables.
+
+
+### week 5-6: Data Structures
+- Introduce lists, tuples and dictinaries
+- learn how to manipulate and access elements in these data structures
+- explore string manipulation and formatting
+
+
+## Stage 2: Intermediate Python
