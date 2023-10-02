@@ -26,3 +26,7 @@ NB: During the duration of this course, I employ Jupyter Notebook to facilitate 
 
 
 ## Stage 2: Intermediate Python
+
+### Week 7-8: FIle handling
+- read and write files in Python3
+- work with file objects, modes and exceptions
