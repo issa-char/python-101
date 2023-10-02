@@ -10,3 +10,10 @@ NB: During the duration of this course, I employ Jupyter Notebook to facilitate 
 - install python and set up a development environment
 - write your first Python program ("Hello, world").
 - learn about variables, data types and basic input/output.
+
+
+### week 3-4: Control strutctures and functions
+- Explore conditional statements (if, else, elif).
+- work with loops (for and while).
+- define and call functions.
+- understand scope and lifetime of variables.
