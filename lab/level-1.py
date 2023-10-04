@@ -1,3 +1,50 @@
+# a.
+# getting familiar with print() and its formating capabilities(end and sep)
+print("Hello, world!")
+print("Python", "is an interpreted", "language", sep='-', end=" ...")
+print("python3 is the latest Python programming language release\n")
+
+#b.
+print("     *")
+print("     *")
+print("    * *")
+print("   *   *")
+print("  *     *")
+print("**       **")
+print("*         *")
+print("*         *")
+print("***********")
+
+
+banner = """
+   ____                   _      ____  _     _
+  / ___| ___   ___   __ _| |__  / ___|| |__ (_)_ __   __ _
+ | |  _ / _ \ / _ \ / _` | '_ \| |   | '_ \| | '_ \ / _` |
+ | |_| | (_) | (_) | (_| | | | | |___| | | | | | | | | (_| |
+  \____|\___/ \___/ \__, |_| |_|\____|_| |_|_|_| |_|\__, |
+                   |___/                            |___/
+"""
+
+print(banner)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # a leap year is a year that contains an extra day, Feb 29th.
 # rules for determing a leap year: divisibility by 4,
 
