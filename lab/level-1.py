@@ -71,3 +71,25 @@ for x in test_data:
         else:
             print(f"{x} is not a leap year")
 
+
+
+
+
+class car:
+
+    def __init__(self, make, year):
+        self.make = make
+        self.year = year
+    
+    def model(self, model_name):
+        return (f"one {self.make} {self.year} car is {model_name}")
+    def engine(self, engine_model):
+        return (f"most {self.make} high ends made in {self.year} use a {engine_model} engine")
+    def fuel (self, type):
+        return(f"{self.year} cars are {type} heads")
+
+car1 = car("toyota", 2018)
+print(car1.engine("v8"))
+print(car1.fuel("petrol"))
+
+
