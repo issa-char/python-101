@@ -30,3 +30,21 @@ NB: During the duration of this course, I employ Jupyter Notebook to facilitate 
 ### Week 7-8: FIle handling
 - read and write files in Python3
 - work with file objects, modes and exceptions
+
+### week 9-10: Object Oriented Programming(OOP)
+- understand the principles of OOP
+- create classes and objects
+- explore inheritance , encapsulation and polymorphism
+
+### week 11-12: Error handling and exception handling
+- learn exception and errors
+- implement error handling using try and except
+- explore custom exceptions
+
+### week 13-14: Modules and libraries
+- import and use modules and libraries
+- explore common python libraries
+- introduction to third party modules
+
+
+## Stage 3: Advanced Python
