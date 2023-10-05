@@ -22,3 +22,48 @@ print(os.getcwd()) # return info about the current working dir
 #os.removedirs("mydir2")
 os.rmdir("dir1")
 print(os.system("myd"))
+
+## ASSIGNMENT
+
+
+
+
+
+# datetime and time module; provides classes for working with date and time
+# applications: event loggging, data validation, storing important info, tracking changes in the database
+import datetime
+
+for i in dir(datetime):
+    print(i, end="-->")
+
+print("\n")
+today = datetime.date.today()
+print(today)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# ASSIGNMENT
+
+
+
+
+
+
+
+
+
+
+
+
+# calendar module
