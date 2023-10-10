@@ -93,3 +93,31 @@ print(car1.engine("v8"))
 print(car1.fuel("petrol"))
 
 
+
+
+
+word = "ty"
+print(len(word))
+
+
+
+
+# stack the procedural way
+stack = []
+
+def push(var):
+    stack.append(var)
+
+def pull():
+    del stack[-1]
+
+for i in range(10):
+    push(i)
+
+print(stack)
+
+for i in stack:
+    push()
+
+print(stack)
+
